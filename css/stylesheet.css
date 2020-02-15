@@ -61,7 +61,7 @@ body{
 position: relative;
   margin-top: 10px;
   animation: push ease 2s alternate infinite;
-  animation-delay: 3s;
+  animation-delay: 0.5s;
 }
 @keyframes push {
     0% {
